@@ -1,0 +1,77 @@
+{
+  "Outer wall 1/4 m": {
+    "Twig": { "health": 38, "damage": { "VHS_BG": 9, "M82": 7, "PipeBomb": 40, "AT4_HEAT": 65, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "BarbedWire": { "health": 75, "damage": { "VHS_BG": 8, "M82": 7, "PipeBomb": 39, "AT4_HEAT": 55, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "Metal": { "health": 150, "damage": { "VHS_BG": 7, "M82": 7, "PipeBomb": 37, "AT4_HEAT": 44, "Frag": 100, "TNT": 205, "RPG7": 180, "C4": 400 } },
+    "Brick": { "health": 300, "damage": { "VHS_BG": 3, "M82": 7, "PipeBomb": 35, "AT4_HEAT": 22, "Frag": 100, "TNT": 204, "RPG7": 90, "C4": 400 } },
+    "Concrete": { "health": 450, "damage": { "VHS_BG": 2, "M82": 6, "PipeBomb": 35, "AT4_HEAT": 18, "Frag": 100, "TNT": 204, "RPG7": 72, "C4": 400 } }
+  },
+  "Outer wall 1/2 m": {
+    "Twig": { "health": 44, "damage": { "VHS_BG": 8, "M82": 7, "PipeBomb": 40, "AT4_HEAT": 65, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "BarbedWire": { "health": 88, "damage": { "VHS_BG": 7, "M82": 7, "PipeBomb": 39, "AT4_HEAT": 55, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "Metal": { "health": 175, "damage": { "VHS_BG": 5, "M82": 7, "PipeBomb": 37, "AT4_HEAT": 44, "Frag": 100, "TNT": 205, "RPG7": 180, "C4": 400 } },
+    "Brick": { "health": 350, "damage": { "VHS_BG": 3, "M82": 7, "PipeBomb": 35, "AT4_HEAT": 22, "Frag": 100, "TNT": 204, "RPG7": 90, "C4": 400 } },
+    "Concrete": { "health": 525, "damage": { "VHS_BG": 2, "M82": 6, "PipeBomb": 35, "AT4_HEAT": 18, "Frag": 100, "TNT": 204, "RPG7": 72, "C4": 400 } }
+  },
+  "Outer wall 1 m": {
+    "Twig": { "health": 50, "damage": { "VHS_BG": 8, "M82": 7, "PipeBomb": 39, "AT4_HEAT": 65, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "BarbedWire": { "health": 100, "damage": { "VHS_BG": 7, "M82": 7, "PipeBomb": 38, "AT4_HEAT": 54, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "Metal": { "health": 200, "damage": { "VHS_BG": 5, "M82": 7, "PipeBomb": 37, "AT4_HEAT": 44, "Frag": 100, "TNT": 205, "RPG7": 180, "C4": 400 } },
+    "Brick": { "health": 400, "damage": { "VHS_BG": 3, "M82": 7, "PipeBomb": 35, "AT4_HEAT": 22, "Frag": 100, "TNT": 204, "RPG7": 90, "C4": 400 } },
+    "Concrete": { "health": 600, "damage": { "VHS_BG": 2, "M82": 6, "PipeBomb": 35, "AT4_HEAT": 18, "Frag": 100, "TNT": 204, "RPG7": 72, "C4": 400 } }
+  },
+  "Outer wall 2 m": {
+    "Twig": { "health": 63, "damage": { "VHS_BG": 8, "M82": 7, "PipeBomb": 40, "AT4_HEAT": 65, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "BarbedWire": { "health": 125, "damage": { "VHS_BG": 7, "M82": 7, "PipeBomb": 38, "AT4_HEAT": 54, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "Metal": { "health": 250, "damage": { "VHS_BG": 5, "M82": 7, "PipeBomb": 37, "AT4_HEAT": 44, "Frag": 100, "TNT": 205, "RPG7": 180, "C4": 400 } },
+    "Brick": { "health": 500, "damage": { "VHS_BG": 3, "M82": 7, "PipeBomb": 35, "AT4_HEAT": 22, "Frag": 100, "TNT": 204, "RPG7": 90, "C4": 400 } },
+    "Concrete": { "health": 750, "damage": { "VHS_BG": 2, "M82": 6, "PipeBomb": 35, "AT4_HEAT": 18, "Frag": 100, "TNT": 204, "RPG7": 72, "C4": 400 } }
+  },
+  "Outer wall 3 m": {
+    "Twig": { "health": 75, "damage": { "VHS_BG": 8, "M82": 7, "PipeBomb": 39, "AT4_HEAT": 65, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "BarbedWire": { "health": 150, "damage": { "VHS_BG": 7, "M82": 7, "PipeBomb": 38, "AT4_HEAT": 54, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "Metal": { "health": 300, "damage": { "VHS_BG": 5, "M82": 7, "PipeBomb": 37, "AT4_HEAT": 44, "Frag": 100, "TNT": 205, "RPG7": 180, "C4": 400 } },
+    "Brick": { "health": 600, "damage": { "VHS_BG": 3, "M82": 7, "PipeBomb": 35, "AT4_HEAT": 22, "Frag": 100, "TNT": 204, "RPG7": 90, "C4": 400 } },
+    "Concrete": { "health": 900, "damage": { "VHS_BG": 2, "M82": 6, "PipeBomb": 35, "AT4_HEAT": 18, "Frag": 100, "TNT": 204, "RPG7": 72, "C4": 400 } }
+  },
+  "Outer wall 4 m": {
+    "Twig": { "health": 88, "damage": { "VHS_BG": 8, "M82": 7, "PipeBomb": 40, "AT4_HEAT": 65, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "BarbedWire": { "health": 175, "damage": { "VHS_BG": 7, "M82": 7, "PipeBomb": 38, "AT4_HEAT": 54, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "Metal": { "health": 350, "damage": { "VHS_BG": 5, "M82": 7, "PipeBomb": 37, "AT4_HEAT": 44, "Frag": 100, "TNT": 205, "RPG7": 180, "C4": 400 } },
+    "Brick": { "health": 700, "damage": { "VHS_BG": 3, "M82": 7, "PipeBomb": 35, "AT4_HEAT": 22, "Frag": 100, "TNT": 204, "RPG7": 90, "C4": 400 } },
+    "Concrete": { "health": 1050, "damage": { "VHS_BG": 2, "M82": 6, "PipeBomb": 35, "AT4_HEAT": 18, "Frag": 100, "TNT": 204, "RPG7": 72, "C4": 400 } }
+  },
+  "Outer wall 5 m": {
+    "Twig": { "health": 100, "damage": { "VHS_BG": 8, "M82": 7, "PipeBomb": 40, "AT4_HEAT": 65, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "BarbedWire": { "health": 200, "damage": { "VHS_BG": 7, "M82": 7, "PipeBomb": 38, "AT4_HEAT": 54, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } },
+    "Metal": { "health": 400, "damage": { "VHS_BG": 5, "M82": 7, "PipeBomb": 37, "AT4_HEAT": 44, "Frag": 100, "TNT": 205, "RPG7": 180, "C4": 400 } },
+    "Brick": { "health": 800, "damage": { "VHS_BG": 3, "M82": 7, "PipeBomb": 35, "AT4_HEAT": 22, "Frag": 100, "TNT": 204, "RPG7": 90, "C4": 400 } },
+    "Concrete": { "health": 1200, "damage": { "VHS_BG": 2, "M82": 6, "PipeBomb": 35, "AT4_HEAT": 18, "Frag": 100, "TNT": 204, "RPG7": 72, "C4": 400 } }
+  },
+  "Base element": {
+    "Twig": { "health": 100, "damage": { "VHS_BG": 7, "M82": 7, "PipeBomb": 38, "AT4_HEAT": 54, "Frag": 101, "TNT": 211, "RPG7": 225, "C4": 400 } },
+    "Wood": { "health": 200, "damage": { "VHS_BG": 7, "M82": 6, "PipeBomb": 38, "AT4_HEAT": 54, "Frag": 101, "TNT": 211, "RPG7": 225, "C4": 400 } },
+    "Metal": { "health": 400, "damage": { "VHS_BG": 7, "M82": 7, "PipeBomb": 38, "AT4_HEAT": 54, "Frag": 101, "TNT": 211, "RPG7": 225, "C4": 400 } },
+    "Brick": { "health": 800, "damage": { "VHS_BG": 7, "M82": 7, "PipeBomb": 38, "AT4_HEAT": 54, "Frag": 101, "TNT": 211, "RPG7": 225, "C4": 400 } },
+    "Concrete": { "health": 1200, "damage": { "VHS_BG": 7, "M82": 6, "PipeBomb": 35, "AT4_HEAT": 18, "Frag": 100, "TNT": 204, "RPG7": 72, "C4": 400 } }
+  },
+  "Outer wall door (any)": {
+    "Twig": { "health": 100, "damage": { "VHS_BG": 9, "M82": 7, "PipeBomb": 0, "AT4_HEAT": 72, "Frag": 0, "TNT": 0, "RPG7": 200, "C4": 0 } },
+    "Wood": { "health": 200, "damage": { "VHS_BG": 7, "M82": 6, "PipeBomb": 0, "AT4_HEAT": 60, "Frag": 0, "TNT": 0, "RPG7": 200, "C4": 0 } },
+    "Metal": { "health": 400, "damage": { "VHS_BG": 6, "M82": 5, "PipeBomb": 0, "AT4_HEAT": 48, "Frag": 0, "TNT": 0, "RPG7": 198, "C4": 0 } },
+    "Reinforced metal": { "health": 800, "damage": { "VHS_BG": 2, "M82": 5, "PipeBomb": 0, "AT4_HEAT": 20, "Frag": 0, "TNT": 0, "RPG7": 79, "C4": 0 } }
+  },
+  "Base element door (single/double)": {
+    "Twig": { "health": 100, "damage": { "VHS_BG": 9, "M82": 5, "PipeBomb": 0, "AT4_HEAT": 81, "Frag": 0, "TNT": 0, "RPG7": 297, "C4": 0 } },
+    "Wood": { "health": 200, "damage": { "VHS_BG": 9, "M82": 5, "PipeBomb": 0, "AT4_HEAT": 81, "Frag": 0, "TNT": 0, "RPG7": 297, "C4": 0 } },
+    "Metal": { "health": 400, "damage": { "VHS_BG": 9, "M82": 5, "PipeBomb": 0, "AT4_HEAT": 81, "Frag": 0, "TNT": 0, "RPG7": 297, "C4": 0 } }
+  },
+  "Base element hatch door": {
+    "Twig": { "health": 100, "damage": { "VHS_BG": 16, "M82": 5, "PipeBomb": 0, "AT4_HEAT": 130, "Frag": 0, "TNT": 0, "RPG7": 250, "C4": 0 } },
+    "Wood": { "health": 150, "damage": { "VHS_BG": 16, "M82": 5, "PipeBomb": 0, "AT4_HEAT": 130, "Frag": 0, "TNT": 0, "RPG7": 250, "C4": 0 } },
+    "Metal": { "health": 250, "damage": { "VHS_BG": 16, "M82": 5, "PipeBomb": 0, "AT4_HEAT": 130, "Frag": 0, "TNT": 0, "RPG7": 250, "C4": 0 } }
+  },
+  "Standalone BarbedWire": {
+    "BarbedWire": { "health": 100, "damage": { "VHS_BG": 8, "M82": 7, "PipeBomb": 40, "AT4_HEAT": 65, "Frag": 100, "TNT": 200, "RPG7": 200, "C4": 400 } }
+  }
+}

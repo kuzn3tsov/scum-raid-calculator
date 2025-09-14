@@ -1,0 +1,109 @@
+body {
+  background-color: #2c2c2c;
+  font-family: 'Roboto', sans-serif;
+  color: #eee;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  background: #3a3a3a;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.6);
+}
+
+h1 {
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #f1c40f;
+}
+
+/* Custom select */
+.custom-select {
+  position: relative;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.custom-select select {
+  display: none;
+}
+
+.select-selected {
+  background-color: #5e5040;
+  color: #fff;
+  padding: 12px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.select-items {
+  position: absolute;
+  background-color: #5e5040;
+  width: 100%;
+  border-radius: 0 0 8px 8px;
+  overflow-y: auto;
+  max-height: 300px;
+  z-index: 99;
+}
+
+.select-items div {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.select-items div:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.select-hide {
+  display: none;
+}
+
+.dropdown-group {
+  font-weight: bold;
+  color: #f1c40f;
+  padding: 6px 10px;
+  background: #4a3f33;
+  cursor: default;
+  border-top: 1px solid #6e5e4a;
+}
+
+/* Explosives list */
+#explosive-list label {
+  display: block;
+  margin: 6px 0;
+}
+
+/* Results */
+#result {
+  margin-top: 20px;
+  background: #444;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+#result .best {
+  color: #2ecc71;
+  font-weight: bold;
+}
+
+/* Copy button */
+#copy-btn {
+  margin-top: 20px;
+  padding: 10px 16px;
+  background: #f1c40f;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#copy-btn:hover {
+  background: #d4ac0d;
+}

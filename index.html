@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="description" content="JS lesson">
+  <meta name="author" content="Lem Treursić">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SCUM Raid Explosive Calculator</title>
+  <link rel="stylesheet" href="calculator.css" />
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Russo+One&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <h1>💥 SCUM Raid Explosive Calculator</h1>
+
+    <!-- Custom dropdown -->
+    <div id="combined-select" class="custom-select">
+      <select>
+        <option value="0" disabled selected>Select element and material:</option>
+      </select>
+      <div class="select-selected">Select element and material:</div>
+      <div class="select-items select-hide"></div>
+    </div>
+
+    <!-- Explosives checklist -->
+    <div id="explosive-list" class="select-hide">
+      <h2>Choose Explosives</h2>
+      <label><input type="checkbox" value="VHS_BG" /> VHS BG</label>
+      <label><input type="checkbox" value="M82" /> M82</label>
+      <label><input type="checkbox" value="PipeBomb" /> Pipe Bomb</label>
+      <label><input type="checkbox" value="AT4_HEAT" /> AT4 HEAT</label>
+      <label><input type="checkbox" value="Frag" /> Frag Grenade</label>
+      <label><input type="checkbox" value="TNT" /> TNT</label>
+      <label><input type="checkbox" value="RPG7" /> RPG7</label>
+      <label><input type="checkbox" value="C4" /> C4</label>
+    </div>
+
+    <!-- Results -->
+    <div id="result" class="select-hide">
+      <div id="total-explosives"></div>
+    </div>
+
+    <!-- Copy button -->
+    <button id="copy-btn">Copy Plan</button>
+  </div>
+
+  <script src="calculation.js"></script>
+</body>
+
+</html>
